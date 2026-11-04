@@ -7,7 +7,7 @@ toolchain go1.25.10
 require (
 	github.com/antithesishq/antithesis-sdk-go v0.7.0-default-no-op
 	github.com/google/go-tpm v0.9.8
-	github.com/klauspost/compress v1.18.6
+	github.com/klauspost/compress v1.20.3
 	github.com/minio/highwayhash v1.0.4
 	github.com/nats-io/jwt/v2 v2.8.1
 	github.com/nats-io/nats.go v1.51.0
